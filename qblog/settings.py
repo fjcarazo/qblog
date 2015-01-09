@@ -39,6 +39,8 @@ INSTALLED_APPS = (
 
     'blog',
     'django_markdown',
+#    'ckeditor',
+    'storages'
 )
 
 MIDDLEWARE_CLASSES = (
